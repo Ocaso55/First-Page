@@ -1,0 +1,62 @@
+* {
+  
+}
+body {
+  background-color: #fa9644;
+}
+#titulo {
+  text-align: center;
+  color: #b04d0c;
+  border: 4px dasher black;
+}
+#FotoPrincipal {
+  width: 175px;
+  padding: 10px;
+  margin: 10px;
+  border: 2px
+  solid #b04d0c;
+  vertical-align: top;
+}
+.Descripción {
+  display: inline-block;
+}
+#Centro {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #b04d0c;
+  border: 2px;
+  margin: 10px;
+  solid #b04d0c;
+ }
+p {
+  font-size: 17px;
+}
+#Facebook_Logo {
+  width: 25px;
+}
+#Instagram_Logo {
+  width: 25px;
+}
+#Home_Logo {
+  width: 25px;
+}
+
+ul {
+  list-style-type: circle;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    width: 30px;
+}
+li a {
+  display: block;
+    width: 60px;
+}
+li a.active {
+    background-color: #4CAF50;
+    color: brown;
+}
+p {
+  font-family: 'Raleway', sans-serif;
+  text color: #4a1009;
+}
